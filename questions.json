@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Mt.Fuji",
+    "alternates": ["Fujiyama", "Fujisan", "Mount Fuji", "fujisan", "fujiyama"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/24902be0-dc50-4ca3-a9c5-1e67c68d09bc.%E5%AF%8C%E5%A3%AB%E5%B1%B1.jpg?v=1727861193954",
+    "clues": [
+      "This is an active volcano. It last erupted in 1707.",
+      "This was registered as a World Cultural Heritage Site in June 2013.",
+      "This is 3,776m. The diameter of the base is 44km. It straddles Yamanashi and Shizuoka prefectures."
+    ]
+  },
+  {
+    "name": "Kit Kat",
+     "alternates": ["KitKat", "kitkat", "kit kat"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/c8b12254-fff9-4c60-95c7-6e3213af66df.%E3%82%AD%E3%83%83%E3%83%88%E3%82%AB%E3%83%83%E3%83%88.jpg?v=1727861480640",
+    "clues": [
+      "This was created in England in 1935, and was sold in Japan as an imported product by Fujiya in 1973.",
+      "This is a candy made of wafers wrapped in chocolate.",
+      "IHave a break, have a ○○.It's a familiar sweet. It comes in a variety of flavors."
+    ]
+  },
+  {
+    "name": "Ninja",
+    "alternates": ["Shinobi", "Kunoichi", "ninja", "kunoichi", "shinobi"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/6511a6e8-4962-4f49-beec-187307105653.%E5%BF%8D%E8%80%85.jpg?v=1727861888544",
+    "clues": [
+      "It is said to have existed from the Sengoku period to the Edo period.",
+      "You may be able to experience it at facilities in Mie Prefecture, Shiga Prefecture, Tokyo, Tochigi Prefecture, etc.",
+      "These people are the Japanese version of spies, using weapons shaped like stars."
+    ]
+  },
+  {
+    "name": "Yakushima",
+    "alternates": ["yakushima"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/6542c159-ecd4-4a96-92ba-5d2268d4128d.%E7%B8%84%E6%96%87%E6%9D%89.jpg?v=1727862067829",
+    "clues": [
+      "It was registered as a World Heritage Site in 1993.",
+      "Cryptomeria trees that are over 1,000 years old grow naturally there.",
+      "This place was the inspiration for the Ghibli movie released in 1997."
+    ]
+  },
+  {
+    "name": "Hokkaido",
+    "alternates": ["hokkaido"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/f2fafaa0-5cdf-4b80-8676-71aae4a1f52c.%E5%8C%97%E6%B5%B7%E9%81%93.png?v=1727862495632",
+    "clues": [
+      "There is a traditional folk song that many Japanese children dance at sports days.",
+      "Original dishes such as soup curry and Genghis Khan are popular.",
+      "It's about the same latitude as Marseille in France, and about 38 times the area of ​​Tokyo."
+    ]
+  },
+{
+    "name": "Tokyo Skytree",
+    "alternates": ["tokyo skytree", "Skytree", "skytree"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/fc7bac6f-b2d6-45fe-8398-508708f3cef8.%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC.jpeg?v=1727862598788",
+    "clues": [
+      "It is currently the tallest self-supporting tower in the world.",
+      "It weighs approximately 36,000 tons and has 2,500 evacuation stairs.The construction cost was approximately 65 billion yen.",
+      "The building opened in 2022. The name of this building was invented by the public."
+    ]
+  },
+{
+    "name": "Sushi",
+    "alternates": ["sushi", "osushi"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/49004b65-9b7d-4a62-a41b-395ae8e02b0a.%E3%81%8A%E5%AF%BF%E5%8F%B8.jpeg?v=1727862810062",
+    "clues": [
+      "The origin of this dish is actually in China, where only the rich could eat it.",
+      "The dish is arranged in various styles and eaten by many people all over the world.",
+      "It's a fast food from the Edo period. It's a Japanese dish that combines vinegared rice with fresh fish and vegetables."
+    ]
+  },
+{
+    "name": "Ramen",
+    "alternates": ["ramen", "ramen noodles"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/f6869ef9-9f3b-4e21-8081-ddd35aad48ad.%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3.jpg?v=1727863108898",
+    "clues": [
+      "After the Great Kanto Earthquake of 1923, this dish began to be sold at places called ``yatai.'' ",
+      "It is thought to be most delicious when sipped.",
+      "The dish is a noodle dish that is popular worldwide. It is known as instant noodles worldwide."
+    ]
+  },
+{
+    "name": "Sensoji Temple",
+    "alternates": ["sensoji", "Sensoji", "sensoji temple"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/838cb5b1-29f4-4ae0-b287-7e9edbc4bcea.%E6%B5%85%E8%8D%89%E5%AF%BA.jpeg?v=1727863334661",
+    "clues": [
+      "During its long history of about 1,400 years, it has been destroyed by fire many times, but each time it has been rebuilt, it has continued to grow and grow.",
+      "The temple is the oldest in Tokyo. It was built in the 7th century.",
+      "Kaminarimon is the symbol of this temple. Nakamise Street is about 250 meters long."
+    ]
+  },
+{
+    "name": "Shibuya",
+    "alternates": ["shibuya"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/2bcdf2cd-815a-4640-9bfc-f0fe26f3e838.%E6%B8%8B%E8%B0%B7.jpeg?v=1727863541311",
+    "clues": [
+      "There are spots where you can experience Japanese culture such as fashion and karaoke.",
+      "There is an intersection where many tourists are surprised to see pedestrians crossing the street without hitting each other.",
+      "There's a statue erected inspired by the dog's loyalty."
+    ]
+  },
+ {
+    "name": "Shinkansen",
+    "alternates": ["bullet train", "shinkansen", "Bullet Train"],
+    "imageURL": "https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/e39176f0-dec1-406b-a728-38e0c56d50c1.%E6%96%B0%E5%B9%B9%E7%B7%9A.jpeg?v=1727863681106",
+    "clues": [
+      "It does not exist in Ibaraki, Chiba, Yamanashi, Mie, Nara, Wakayama, Tottori, Shimane, Kagawa, Tokushima, Ehime, Kochi, Oita, Miyazaki, or Okinawa.",
+      "It is known for being punctual.",
+      "It is the second fastest in the world and can accelerate up to 320 km/h."
+    ]
+  }
+ 
+  
+]

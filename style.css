@@ -1,0 +1,57 @@
+canvas {
+  border: 1px solid black;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+input[type="text"] {
+  width: 90%;
+  max-width: 300px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none; /* Remove default border */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+button#nextButton {
+  background-color: blue; /* Blue background color */
+  color: white; /* White text color */
+}
+button#nextButton:hover {
+  background-color: darkblue; /* Darker blue on hover */
+}
+#clues {
+  margin-top: 10px;
+  text-align: center; /* Ensure clues are centered */
+}
+.clue {
+  margin-bottom: 5px;
+}
+@media (max-width: 600px) {
+  button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  .clue {
+    font-size: 14px;
+  }
+}
+.attribution {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #555;
+}
+/* Centering the button container */
+.button-container {
+  display: inline-block; /* Keep the button centered */
+  margin-top: 20px;
+}
