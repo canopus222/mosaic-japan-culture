@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mosaic Japan Culture Game</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+      }
+      .container {
+        text-align: center;
+        background-color: white;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+      }
+      h1 {
+        margin-bottom: 20px;
+      }
+      p {
+        margin-bottom: 20px;
+      }
+      button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Mosaic Japan Culture Game</h1>
+      <p>1. The questions are all in English.</p>
+      <p>2. Please answer in English (e.g., Shinjuku should be entered as "Shinjuku" or "shinjuku").</p>
+      <p>3. Questions will be asked at random. You can cancel at any time by clicking the Back to top button.</p>
+      <p>4. There are 11 questions in total.</p>
+      <button id="startButton">Start</button>
+    </div>
+
+    <script>
+      // スタートボタンを押したときにtop.htmlに遷移する
+      document.getElementById("startButton").addEventListener("click", function () {
+        window.location.href = "top.html";
+      });
+    </script>
+  </body>
+</html>
+

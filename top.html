@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mosaic-japan-culture</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <br />
+    <div id="clues">
+      <div class="clue"></div>
+    </div>
+    <br />
+    <input type="text" id="guessInput" placeholder="Guess the picture" />
+    <button id="submitGuessButton">Submit</button>
+    <p id="resultText"></p>
+    <div class="attribution">
+      <div class="button-container">
+        <button id="nextButton" style="display: none">Next</button>
+      </div>
+      <br />
+          
+      <!-- トップページへ戻るボタンを追加 -->
+      <button id="backToTopButton">back to top</button>
+    </div>
+
+    <script src="script.js"></script>
+        <script>
+        // トップページへ戻るボタンがクリックされたときの動作
+        document.getElementById("backToTopButton").addEventListener("click", function () {
+            window.location.href = "index.html";
+        });
+    </script>
+  </body>
+</html>
