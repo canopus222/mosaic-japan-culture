@@ -66,3 +66,8 @@ I would like to create opportunities for conversation with people from other cou
 
 - I want to implement the function of asking questions by category.
 - I would like to add issues regarding countries other than Japan.
+
+
+# 記事
+・今回のREADME作成にあたりREADMEに画像を貼り付けるためにGlitchで行ったことを記事にまとめました
+https://qiita.com/wa-chan222/items/739bc1a96f79808f897a
