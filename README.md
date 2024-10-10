@@ -69,5 +69,6 @@ I would like to create opportunities for conversation with people from other cou
 
 
 # 記事
-・今回のREADME作成にあたりREADMEに画像を貼り付けるためにGlitchで行ったことを記事にまとめました
+- 今回のREADME作成にあたりREADMEに画像を貼り付けるためにGlitchで行ったことを記事にまとめました
 https://qiita.com/wa-chan222/items/739bc1a96f79808f897a
+- 個人開発についての記事https://qiita.com/wa-chan222/items/2cdd05f318ecd5b3dfe7
