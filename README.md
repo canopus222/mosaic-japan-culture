@@ -1,3 +1,5 @@
+![Mosaic Japan Culture](https://cdn.glitch.global/cf4d2441-d52f-444c-848a-1a7d7c967fff/08dfad83-2551-4539-861b-8554fed98685.mosaic-japan-culture.png?v=1728535098745)
+
 
 # Service URL
 https://mosaic-japan-culture.glitch.me
